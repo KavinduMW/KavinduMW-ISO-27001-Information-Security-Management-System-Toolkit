@@ -26,7 +26,7 @@ It promotes a holistic approach to information security — covering people, pol
 
 ## Assignment Objective
 
-The main objective of this assignment (IE3102 - Enterprise Standards for Information Security) was to develop a **practical ISO 27001 ISMS Toolkit** that can be used by organizations for implementation. This included creating all necessary documents, templates, and guidance materials while acting in the role of an industry consultant.
+The main objective of this is to develop a **practical ISO 27001 ISMS Toolkit** that can be used by organizations for implementation. This included creating all necessary documents, templates, and guidance materials while acting in the role of an industry consultant.
 
 ---
 
@@ -65,5 +65,3 @@ ESIS assignment 2/
 ├── 9. IT21831904 - implementation process.docx
 ├── 10. IT21831904 - managment minutes.docx
 ├── 11. IT21831904 - Incident response plan.docx
-├── IT21831904 - ISO 27001 presentation.pptx
-└── recording link.txt
