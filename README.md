@@ -1,4 +1,4 @@
-# ISO 27001 Information Security Management System Toolkit
+# ISO 27001 Information Security Management System Toolkit templates
 
 ## Introduction to ISO 27001
 
